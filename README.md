@@ -1,2 +1,2 @@
 # LeetCode
-Repository of LeetCode questions
+Followign is a Repository of LeetCode practice questions to track my own progress!
